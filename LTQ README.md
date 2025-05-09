@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/PR-make/LuckToy-coin/blob/main/Lucktoy%20Coin.png?raw=true" alt="LuckToy Coin Logo" width="200"/>
+</p>
 # LuckToy Coin (LTQ)
 
 LuckToy Coin (LTQ) — inspired by the loyalty and elegance of a black poodle named Lucky. A symbol of trust, intelligence, and subtle charm, LuckyCoin brings a touch of fortune to those who value integrity and connection.
