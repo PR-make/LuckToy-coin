@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/PR-make/LuckToy-coin/blob/main/Lucktoy-Coin.png?raw=true" alt="LuckToy Coin Logo" width="200"/>
+  <img src="Lucktoy-Coin.png" alt="LuckToy Coin Logo" width="200"/>
 </p>
 # LuckToy Coin (LTQ)
 
